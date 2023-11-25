@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tobi Stephen
 - 👀 I’m a software developer
-- 🌱 I’m exploring computer vision with opencv library and related frameworks
+- 🌱 I’m exploring the windows os and its internals
 - 💞️ I’m looking to collaborate on projects including but not limited to web, desktop, enterprise applications.
 - 📫 How to reach me: https://tobi-stephen.github.io
 
